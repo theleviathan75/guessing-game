@@ -97,6 +97,7 @@ h1 {
 
 .btn {
   border: none;
+  outline: none;
   background-color: #eee;
   color: #222;
   font-size: 2rem;
