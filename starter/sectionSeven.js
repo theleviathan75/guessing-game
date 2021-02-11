@@ -4,7 +4,6 @@ let secretNumber = Math.trunc(Math.random() * 100) + 1;
 
 let score = 100;
 let highScore = 0;
-let playing = true;
 
 const displayMessage = function (message) {
   document.querySelector('.message').textContent = message;
